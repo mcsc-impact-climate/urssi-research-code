@@ -1,1 +1,1 @@
-print('This is a pretty generic message with no personalization whatsoever.')
+print("Joohyun Lee's pull request")
