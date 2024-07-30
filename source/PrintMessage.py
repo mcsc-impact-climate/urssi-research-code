@@ -1,1 +1,1 @@
-print('Hello everyone, I am Yuqing')
+print('Hello everyone, I like playing compute games')
